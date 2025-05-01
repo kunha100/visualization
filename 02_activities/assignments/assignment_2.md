@@ -14,7 +14,7 @@
 
       https://public.tableau.com/app/profile/kathryn.mccrindle/viz/IV2025FinalDashboard-KathrynMcCrindle-WildlifeStrikes/Home
 
-      I think this is a good visualization. Visualization is very intuitive. It effectively shows that the bird strike is at the rise except during the pandemic, but the strikes with significant damage have declined, while it is showing a little surge recently. Size of circles serves dual function of locating the strike area and the frequency, effectively showing that the strike on engine has caused the serious problem, but the most common strikes are in the head. The discrepancy between top species that cause significant damages and overall strikes is also easily gatherable. Similar data is organized together aptly.
+      I think this is a good visualization. Visualization is very intuitive. It effectively shows that the bird strike is at the rise except during the pandemic, but the strikes with significant damage have declined, while it is showing a little surge recently. Size of circles serves dual function of locating the strike area and the frequency, effectively showing that the strike on engine has caused the serious problem, but the most common strikes are in the head. The discrepancy between top species that cause significant damages a nd overall strikes is also easily gatherable. Similar data is organized together aptly..
 
  
 
