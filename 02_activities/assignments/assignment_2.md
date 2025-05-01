@@ -12,16 +12,23 @@
       ```
       Your answer...
 
+      https://public.tableau.com/app/profile/kathryn.mccrindle/viz/IV2025FinalDashboard-KathrynMcCrindle-WildlifeStrikes/Home
 
+      I think this is a good visualization. Visualization is very intuitive. It effectively shows that the bird strike is at the rise except during the pandemic, but the strikes with significant damage have declined, while it is showing a little surge recently. Size of circles serves dual function of locating the strike area and the frequency, effectively showing that the strike on engine has caused the serious problem, but the most common strikes are in the head. The discrepancy between top species that cause significant damages and overall strikes is also easily gatherable. Similar data is organized together aptly.
 
+ 
 
+      https://public.tableau.com/app/profile/sebastine/viz/TrumpsJobPerformanceMakeoverMonday/MakeOverMonday
 
-
+      I think this visualization is a bad one. It's difficult to get what each graph is representing without referring to the guideline provided by the author.
+      The purpose of this visualization seems to be to show that vast majority of ethnic/gender/age groups is showing negative reponses to Trump administration's recent policy. The layout of the graph, however, merely summarizes the results rather than making possible the comparative approaches to the previous results that is only briefly mentioned in the summary paragraph. The approval rate, which is number, is visualized in area, rather than in length, that it is difficult to perceive the exact difference among diffrent criteria effectively. The color choice is also strange (why should approval rate blue and disapproval orange?). Data subsets are not organized properly, nor they are being ordered according to some kind of logic, but put randomly. For example, men are at the second line and women are at the last line. Asian and Black are at the first row, Hispanic are in the third, and the white are in the last. 
 
       ```
     - How could this data visualization have been improved?  
       ```
       Your answer...
+
+      I think as it is dealing with magnitute, it better uses line graph. By juxtaposing each group with line graph for each category, the reader will be able to get the general trend. I'd put similar groups (ethnicity, gender, age, education level) along with each other so that reader is able to compare between different social groups.
 
 
 
